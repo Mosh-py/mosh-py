@@ -50,9 +50,7 @@ Event-driven simulation of hospital workflows using asynchronous messaging.
 ---
 
 ## 🌍 Find Me
-- Portfolio: https://mosh-py.github.io/![Moshood-headShot](https://github.com/user-attachments/assets/dfa72c33-113a-4f2d-a740-6dee9ec01ef4)
-![Moshood-headShot](https://github.com/user-attachments/assets/83abd564-3d5e-437f-855a-601c3f9c54b5)
-
+- Portfolio: https://mosh-py.github.io/
 - LinkedIn: https://linkedin.com/in/adageje-moshood-265773210  
 - Email: adagejem@gmail.com
 
