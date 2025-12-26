@@ -1,5 +1,5 @@
-[Me-working](https://github.com/user-attachments/assets/f63761d0-c48f-4634-abe3-01056733fa47)
-# Hi, I’m Moshood 👋
+![Moshood-headShot](https://github.com/user-attachments/assets/4883851f-4044-4d29-ac31-f453ac73b2ff)
+#Hi, I’m Moshood 👋
 
 Backend Engineer focused on building **real-time**, **event-driven**, and **scalable systems**
 using **Java**, **Spring Boot**, and **Apache Kafka**.
@@ -52,7 +52,7 @@ Event-driven simulation of hospital workflows using asynchronous messaging.
 
 ## 🌍 Find Me
 - Portfolio: https://mosh-py.github.io/![Moshood-headShot](https://github.com/user-attachments/assets/dfa72c33-113a-4f2d-a740-6dee9ec01ef4)
-![Uploading Moshood-headShot.jpg…]()
+![Moshood-headShot](https://github.com/user-attachments/assets/83abd564-3d5e-437f-855a-601c3f9c54b5)
 
 - LinkedIn: https://linkedin.com/in/adageje-moshood-265773210  
 - Email: adagejem@gmail.com
