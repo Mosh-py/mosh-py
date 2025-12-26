@@ -1,5 +1,4 @@
-![Moshood-headShot](https://github.com/user-attachments/assets/4883851f-4044-4d29-ac31-f453ac73b2ff)
-#Hi, I’m Moshood 👋
+## Hi, I’m Moshood 👋
 
 Backend Engineer focused on building **real-time**, **event-driven**, and **scalable systems**
 using **Java**, **Spring Boot**, and **Apache Kafka**.
